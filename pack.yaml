@@ -1,0 +1,22 @@
+---
+ref: home_auto
+name: Home Automation
+description: Provides lots of home automation scripts
+keywords:
+  - home
+  - automation
+version: 0.0.1
+python_versions:
+  - "3"
+
+dependencies:
+  - core
+
+author: Dahfizz
+
+email: dont@email.me
+
+contributors:
+ - "Me"
+ - "Myself"
+ - "I"
